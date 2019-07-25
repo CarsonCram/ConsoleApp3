@@ -1,8 +1,12 @@
-﻿class Program
+﻿using System;
+namespace ConsoleApp2
 {
-    static void Main(string[] args)
+    class Program
     {
-        System.Console.WriteLine("That's All Folks!");
-        //TODO Write some code that does something
+        static void Main(string[] args)
+        {
+            Console.WriteLine("That's All Folks!");
+            //TODO Write some code that does something
+        }
     }
 }
