@@ -1,5 +1,4 @@
-﻿//This is a comment    
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
