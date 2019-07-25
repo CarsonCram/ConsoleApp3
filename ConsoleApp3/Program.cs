@@ -1,7 +1,9 @@
-﻿    class Program
+﻿//This is a comment    
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            System.Console.WriteLine("Hello World!");
-        }
+        System.Console.WriteLine("That's All Folks!");
+        //TODO Write some code that does something
     }
+}
